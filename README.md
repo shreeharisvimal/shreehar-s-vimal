@@ -12,7 +12,7 @@ t.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreeharisvimal" alt="shreeharisvimal" /></a> </p>
 
-- 📫 How to reach me **ssvambalapuzha@gmail.com**
+- 📫 How to reach me **shreeharisvimal@gmail.com**
 
 - ⚡ Fun fact **I'm Pretty funny i would say**
 
